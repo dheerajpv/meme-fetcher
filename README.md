@@ -17,7 +17,7 @@ yarn add meme-fetcher
 ## Usage
 
 ```js
-const getMeme = require("meme-fetcher");
+const getMeme = require("meme-fetcher").default;
 // or with TypeScript:
 import getMeme from "meme-fetcher";
 
