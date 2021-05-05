@@ -1,0 +1,11 @@
+src/
+src/**/*.js.map
+
+test/
+
+tsconfig.json
+
+# image files, in case I ever make images for this :o
+./**/*.jpg
+./**/*.png
+./**/*.gif
