@@ -1,0 +1,38 @@
+{
+    "subreddits": {
+        "meme": [
+            "memes",
+            "funny",
+            "PrequelMemes",
+            "SequelMemes",
+            "HistoryMemes",
+            "MinecraftMemes",
+            "dankememes",
+            "wholesomememes",
+            "me_irl",
+            "OTMemes",
+            "LOTRMemes",
+            "Memes_Of_The_Dank",
+            "HolUp",
+            "meme"
+        ],
+        "wallpaper": [
+            "wallpaper",
+            "wallpapers",
+            "earthPorn",
+            "skyPorn",
+            "cityPorn",
+            "beachPorn",
+            "ImaginaryStarscapes",
+            "ImaginaryLandscapes",
+            "ImaginaryCityscapes",
+            "ImaginaryColorscapes",
+            "ImaginaryMindscapes",
+            "ExposurePorn",
+            "phonewallpapers",
+            "MobileWallpaper",
+            "wallpaperengine"
+        ]
+    },
+    "searchTypes": ["new", "top", "rising", "hot"]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "meme-fetcher",
+    "version": "1.0.0",
+    "main": "dist/index.js",
+    "scripts": {
+        "build": "tsc",
+        "start": "tsc && node",
+        "dev": "nodemon src/index.js",
+        "test": "ts-node test/index.test.ts",
+        "prepublish": "tsc"
+    },
+    "repository": "https://github.com/dheerajpv/meme-fetcher.git",
+    "author": "Dheeraj Prakash <dheerajpv16@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "node-fetch": "^2.6.1"
+    },
+    "devDependencies": {
+        "@types/node-fetch": "^2.5.10"
+    }
+}
