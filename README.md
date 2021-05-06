@@ -21,9 +21,9 @@ const getMeme = require("meme-fetcher").default;
 // or with TypeScript:
 import getMeme from "meme-fetcher";
 
-async () => {
+(async () => {
     console.log(await getMeme({ type: "meme" }));
-};
+})();
 ```
 
 ## Types of Requests
